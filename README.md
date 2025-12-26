@@ -1,25 +1,45 @@
-## Hi there 👋
+# Hi, I’m Cristian 👋
 
-<!--
-**noriegamonsc1/noriegamonsc1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Scientist | Researcher | Applied AI & Analytics**
 
-Here are some ideas to get you started:
+I work at the intersection of **research and industry**, building data-driven and AI-powered systems for real-world decision-making — with a strong focus on **machine learning, optimization, and applied analytics**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 **Website:** https://noriegamonsc1.github.io/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+## 🔍 Research & Professional Focus
+- Applied **machine learning and data mining** for complex systems
+- Research in **AI-driven optimization and analytics**
+- Bridging **academic research** with **industry-scale data pipelines**
+- Experience working with **real operational and enterprise data**
+
+---
+
+## 🚀 Selected Work & Projects
+- **AI-Empowered Decision Models** — Machine learning for complex system optimization  
+- **Data-Driven Analytics Pipelines** — End-to-end SQL → Python → reporting automation  
+- **Applied Research Projects** — From problem formulation to experimental evaluation  
+
+👉 Detailed projects, figures, and publications are available on my website.
+
+---
+
+## 🧠 Current Research Trajectory
+- Advancing **data-driven and AI-assisted decision systems**
+- Exploring **machine learning models for structured and spatio-temporal data**
+- Integrating **research prototypes** into production-ready workflows
+
+---
+
+## 🛠️ Technical Stack
+**Languages & Data:** Python, SQL  
+**ML & Analytics:** Machine Learning, Statistical Modeling, Optimization  
+**Data Systems:** Data Pipelines, Reporting Automation, Data Validation  
+**Tools:** Git, GitHub, Jupyter, Cloud & Enterprise Data Platforms
+
+---
+
+## 🌐 Connect
+- 🌍 Website: https://noriegamonsc1.github.io/  
+- 💼 GitHub: https://github.com/noriegamonsc1  
