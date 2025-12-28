@@ -46,9 +46,6 @@ I work at the intersection of **research and industry**, building data-driven an
 
 ## 📊 GitHub Statistics
 
-![Cristian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=noriegamonsc1&show_icons=true&hide_title=true)
+![Cristian's GitHub Stats](https://gh-readme-stats.vercel.app/api?username=noriegamonsc1&show_icons=true)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noriegamonsc1)](https://github.com/noriegamonsc1/github-readme-stats)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noriegamonsc1&layout=compact)
-
+![Top Languages](https://gh-readme-stats.vercel.app/api/top-langs/?username=noriegamonsc1&layout=compact)
