@@ -42,4 +42,11 @@ I work at the intersection of **research and industry**, building data-driven an
 
 ## 🌐 Connect
 - 🌍 Website: https://noriegamonsc1.github.io/  
-- 💼 GitHub: https://github.com/noriegamonsc1  
+- 💼 GitHub: https://github.com/noriegamonsc1
+
+## 📊 GitHub Statistics
+
+![Cristian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=noriegamonsc1&show_icons=true&hide_title=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noriegamonsc1&layout=compact)
+
